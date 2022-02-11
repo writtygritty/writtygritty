@@ -4,6 +4,6 @@ Hello 🙏🏻 I am Amit kumar, I am a blogger, developer and designer from Ranc
 🤔 I’m looking for writers who can contribute to my blog<br>
 💬 Ask me about Blogging, Learning, Programming and Marketing.
 
-😄 Connect with me on my blog<br>
-   [Buddymantra](https://buddymantra.com/about)<br>
+😄 Connect with me on my blog<br><br><br>
+   [Buddymantra](https://buddymantra.com/about)<br><br><br>
    [Writtygritty](https://writtygritty.com)
