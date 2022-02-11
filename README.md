@@ -5,5 +5,5 @@ Hello 🙏🏻 I am Amit kumar, I am a blogger, developer and designer from Ranc
 💬 Ask me about Blogging, Learning, Programming and Marketing.
 
 😄 Connect with me on my blog<br><br><br>
-   [Buddymantra](https://buddymantra.com/about)<br><br><br>
-   [Writtygritty](https://writtygritty.com)
+   1.  [Buddymantra](https://buddymantra.com/about)<br>
+   2.  [Writtygritty](https://writtygritty.com)
